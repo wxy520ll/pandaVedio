@@ -1,0 +1,33 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- 標題欄屬性 -->
+    <dimen name="titleLeftImgPaddingBottom">5dp</dimen>
+    <dimen name="titleLeftImgPaddingTop">5dp</dimen>
+    <dimen name="titleLeftImglayout_marginRight">10dp</dimen>
+    <dimen name="titleLeftImglayout_marginLeft">10dp</dimen>
+
+    <dimen name="moreItemLinearLayoutlayout_width">114.5dp</dimen>
+    <dimen name="moreItemImagelayout_marginLeft">4.5dp</dimen>
+    <dimen name="moreItemImagelayout_marginRight">4.5dp</dimen>
+
+    <dimen name="homeViewlayout_marginLeft">9dp</dimen>
+    <dimen name="homeViewlayout_marginRight">8dp</dimen>
+    <dimen name="homeColorViewlayout_width">5dp</dimen>
+    <dimen name="homeColorViewlayout_height">25dp</dimen>
+    <dimen name="homeTextViewpaddingLeft">5dp</dimen>
+
+    <dimen name="agreementTextpaddingLeft">7dp</dimen>
+    <dimen name="agreementTextpaddingRight">7dp</dimen>
+    <dimen name="agreementTextSize">15dp</dimen>
+    <dimen name="record">120dp</dimen>
+    <dimen name="record_padding">10dp</dimen>
+    <dimen name="griditem">110dp</dimen>
+    <dimen name="griditemTop">8dp</dimen>
+    <dimen name="grid_verticalSpacing">5dp</dimen>
+    <dimen name="grid_horizontalSpacing">5dp</dimen>
+    <dimen name="title_height">50dp</dimen>
+    <dimen name="layout_marginLeft">15dp</dimen>
+    <dimen name="hand_layout_marginBottom">130dp</dimen>
+</resources>

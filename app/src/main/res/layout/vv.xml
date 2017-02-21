@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="60dp"
+    android:layout_height="60dp"
+    >
+    <RelativeLayout
+       android:background="@mipmap/lbg"
+        android:layout_width="110dp"
+        android:layout_height="80dp">
+    <ImageView
+        android:id="@+id/volumn"
+        android:layout_centerInParent="true"
+        android:src="@mipmap/volumn"
+        android:layout_width="40dp"
+        android:layout_marginBottom="5dp"
+        android:layout_height="40dp" />
+    <SeekBar
+        android:id="@+id/seekbar"
+        android:max="100"
+        android:maxHeight="1dip"
+        android:progress="100"
+        android:progressDrawable="@drawable/seekbarcolor"
+        android:layout_below="@id/volumn"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_width="match_parent"
+        android:thumb="@drawable/seekbarcolor"
+        android:layout_height="4dp" />
+    </RelativeLayout>
+
+</RelativeLayout>
